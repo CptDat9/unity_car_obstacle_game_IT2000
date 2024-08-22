@@ -81,7 +81,7 @@ Dưới đây là cấu trúc thư mục của dự án và mô tả ngắn về
 
 1. Clone hoặc tải xuống mã nguồn của dự án.
 2. Mở dự án bằng Unity.
-3. Thiết lập các đối tượng trong Scene nếu cần thiết.
+3. Thiết lập các đối tượng trong Scene chỉnh Scene và thêm Script theo Respo để project có thể hoạt động.
 4. Chạy thử nghiệm và điều chỉnh các script nếu cần.
 
 ## Đóng góp
