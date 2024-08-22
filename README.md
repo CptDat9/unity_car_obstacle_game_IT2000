@@ -86,7 +86,7 @@ Dưới đây là cấu trúc thư mục của dự án và mô tả ngắn về
 
 ## Đóng góp
 
-Nếu bạn muốn đóng góp vào dự án, vui lòng tạo một nhánh mới, thực hiện thay đổi và gửi pull request.
+Nếu bạn muốn đóng góp vào dự án, vui lòng fork lại, thực hiện thay đổi và gửi pull request.
 
 
 
