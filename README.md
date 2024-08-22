@@ -70,7 +70,6 @@ Dưới đây là cấu trúc thư mục của dự án và mô tả ngắn về
 - **Hệ điều hành**: Windows 10/11, macOS 11+, Ubuntu 22.04+
 - **CPU**: Intel Core i7-6700K / AMD Ryzen 5 3600 hoặc tương đương
 - **RAM**: 16 GB
-- **GPU**: NVIDIA GeForce GTX 1060 / AMD Radeon RX 580 hoặc tương đương với 4 GB VRAM
 - **Dung lượng ổ cứng**: 4 GB dung lượng trống
 - **Phần mềm**: Unity 2020.3 LTS trở lên
 
