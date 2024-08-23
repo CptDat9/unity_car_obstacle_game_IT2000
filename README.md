@@ -68,10 +68,11 @@ Dưới đây là cấu trúc thư mục của dự án và mô tả ngắn về
 ### Yêu cầu đề nghị:
 
 - **Hệ điều hành**: Windows 10/11, macOS 11+, Ubuntu 22.04+
-- **CPU**: Intel Core i7-6700K / AMD Ryzen 5 3600 hoặc tương đương
-- **RAM**: 16 GB
+- **CPU**: Intel Core i5-2400 hoặc AMD FX-6300 hoặc tương đương.
+- **RAM**: Tối thiểu 8 GB RAM (khuyến nghị 16 GB hoặc cao hơn)
 - **Dung lượng ổ cứng**: 4 GB dung lượng trống
 - **Phần mềm**: Unity 2020.3 LTS trở lên
+- **Phần mềm bổ sung**: Microsoft Visual Studio 2019 (hoặc phiên bản mới hơn) cho Windows hoặc macOS (tùy chọn khi cài đặt Unity).
 
 ## Minh họa
 
