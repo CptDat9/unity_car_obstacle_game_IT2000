@@ -4,7 +4,8 @@
 
 <div align="center">
 <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/CptDat9/unity_car_obstacle_game_IT2000?labelColor=7AA2E3&color=97E7E1">
-</div>                                  
+</div>    
+
 ## Giới thiệu
 
 Game Xe Vượt Chướng Ngại Vật là một trò chơi 3D được phát triển bằng Unity. Trong game, người chơi sẽ điều khiển một chiếc xe thể thao trên con đường đầy rẫy chướng ngại vật. Mục tiêu của trò chơi là tránh các chướng ngại vật và đi được quãng đường xa nhất có thể mà không bị va chạm.
@@ -26,7 +27,7 @@ Dưới đây là cấu trúc thư mục của dự án và mô tả ngắn về
 - **Scripts**:
   - `CameraScript.cs`: Script điều khiển camera xoay quanh xe bằng chuột.
   - `LightEffects.cs`: Script quản lý hiệu ứng ánh sáng trong game.
-  - `EnemyCallBack.cs`: Script quản lý hành vi của chướng ngại vật.
+  - `EnemyCallBack.cs`: Script quản lý hành vi của chướng ngại vật. Chướng ngại vật sẽ được spawn ngẫu nhiên trên đường đi.
   - `Limitplayer.cs`: Script giới hạn vị trí của xe trong game.
   - `PlayerTrigger.cs`: Script xử lý va chạm và các sự kiện liên quan đến người chơi.
   - `RestartButton.cs`: Script điều khiển nút restart của game.
@@ -38,7 +39,7 @@ Dưới đây là cấu trúc thư mục của dự án và mô tả ngắn về
 ## Hướng dẫn chơi
 
 - Sử dụng chuột để điều khiển xe di chuyển trên đường.
-- Tránh các chướng ngại vật trên đường đi.
+- Tránh các chướng ngại vật trên đường đi. Chướng ngại vật sẽ được spawn ngẫu nhiên trên đường đi nên yêu cầu người chơi cần phản xạ tay điều khiển xe né các chướng ngại vật này.
 - Nếu đến được cuối đường mà không va chạm vào chướng ngại vật, bạn sẽ chiến thắng.
 
 ### Điều khiển Camera
